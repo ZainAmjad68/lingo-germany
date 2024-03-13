@@ -3,3 +3,4 @@
 | ENGLISH | GERMAN | LITERAL
 | --- | --- | --- |
 | hallo | hello | - |
+| good | guten | - |
